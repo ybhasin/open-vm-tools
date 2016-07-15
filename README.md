@@ -99,7 +99,7 @@ You can get involved today in sevearl different ways:
   * Fedora 19 and later releases
   * Debian 7.x and later releases
   * openSUSE 11.x and later releases
-  * Recent Ubuntu releases (12.04 LTS, 13.10 and later)
+  * Ubuntu 14.04 LTS and later releases
   * Red Hat Enterprise Linux 7.0 and later releases
   * SUSE Linux Enterprise 12 and later releases
   * CentOS 7 and later releases
